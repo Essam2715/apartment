@@ -25,6 +25,8 @@ html {
   body {
     margin: 0;
     font-family: 'Cairo', sans-serif;
+   scroll-behavior: smooth;
+
 
   }
   
